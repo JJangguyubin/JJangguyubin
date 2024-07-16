@@ -1,12 +1,5 @@
 ### Hi there 👋
 ### Jonggang plz :(
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJangguyubin&count_bg=%23A7A11E&title_bg=%23278C83&icon=jeep.svg&icon_color=%239BA12D&title=printf%28%22HelloWorld%5Cn%22%29%3B&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJangguyubin&show_icons=true&theme=ambient_gradient)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sogang_jangyubin)](https://solved.ac/sogang_jangyubin/)
-
 <!--
 **JJangguyubin/JJangguyubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

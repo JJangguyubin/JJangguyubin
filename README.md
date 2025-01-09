@@ -1,5 +1,5 @@
-### Hi there 👋
-### Jonggang plz :(
+### Slow and Steady wins the Race!
+### :)
 <!--
 **JJangguyubin/JJangguyubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

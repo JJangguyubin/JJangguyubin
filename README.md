@@ -1,3 +1,20 @@
+```cpp
+# include <iostream>
+// using namespace std;
+
+int main(void) 
+{
+    std::cout << " Hello, World!\nMy name is yubin. :) " << std::endl;
+
+    while (true)
+    {
+        std::cout << " 👨‍🏫 " << std::endl;
+    }
+
+    return 0;
+}
+```
+---
 ### **Slow And Steady Wins The Race!**
 ### 😁😁😁
 <!--

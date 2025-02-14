@@ -2,13 +2,20 @@
 # include <iostream>
 // using namespace std;
 
+auto doStudy =
+[]() -> auto
+    {
+        std::cout << " I do study. " << std::endl;
+    };
+
 int main(void) 
 {
     std::cout << " Hello, World!\nMy name is yubin. :) " << std::endl;
 
     while (true)
     {
-        std::cout << " 👨‍🏫 " << std::endl;
+        // 👨‍🏫;
+        doStudy();
     }
 
     return 0;

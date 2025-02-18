@@ -1,12 +1,6 @@
-```cpp
+ ```cpp
 # include <iostream>
 // using namespace std;
-
-auto doStudy =
-[]() -> auto
-    {
-        std::cout << " I do study. " << std::endl;
-    };
 
 int main(void) 
 {
@@ -15,7 +9,11 @@ int main(void)
     while (true)
     {
         // 👨‍🏫;
-        doStudy();
+        // doStudy();
+        []() -> auto
+            {
+                std::cout << " I do study. " << std::endl;
+            }();
     }
 
     return 0;

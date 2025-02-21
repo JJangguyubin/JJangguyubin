@@ -9,8 +9,7 @@ int main(void)
     while (true)
     {
         // 👨‍🏫;
-        // doStudy();
-        []() -> auto
+        []()
             {
                 std::cout << " I do study. " << std::endl;
             }();

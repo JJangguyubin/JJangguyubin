@@ -1,16 +1,25 @@
-### **Slow And Steady Wins The Race!**
-### 😁 👍
-<!--
-**JJangguyubin/JJangguyubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+'''cpp
+# include <iostream>
 
-Here are some ideas to get you started:
+// using namespace std;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+int main(void) {
+
+	auto showMyMottos =
+		[]() {
+		std::cout << " --- " << std::endl;
+		std::cout << " <My mottos> " << std::endl;
+		std::cout
+			<< " 1. 盡人事待天命. "
+			<< std::endl
+			<< " 2. Slow and steady wins the race. "
+			<< std::endl;
+		std::cout << " --- " << std::endl;
+		std::cout << std::endl;
+		};
+
+	showMyMottos();
+
+	return 0;
+}
+'''

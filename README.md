@@ -1,4 +1,4 @@
-# :sparkles: My Mottos && Course List
+# 😄 My Mottos && Course List 💻
 
 
 ```cpp

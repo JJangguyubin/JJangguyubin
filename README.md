@@ -1,5 +1,7 @@
-# 😄 My Course List 💻
+# 😄 My Mottos && Course List 💻
 
+---
+Slow And Steady wins the race! :)
 ---
 
 ## [2023-2 학기]

@@ -1,4 +1,4 @@
-# 😄 My Mottos && Course List 💻
+# 😄 My Motto && Course List 💻
 
 ---
 Slow And Steady wins the race! :)

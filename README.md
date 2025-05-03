@@ -1,1 +1,1 @@
-Slow and steady wins the race.
+Slow And Steady Wins The Race~
